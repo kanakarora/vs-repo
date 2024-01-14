@@ -1,2 +1,2 @@
-i am colning a repo to vs from git
+i am cloning a repo to vs from git
 author - kanika arora
